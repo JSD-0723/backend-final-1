@@ -29,6 +29,7 @@
   - enviroment.ts
 > Controllers
 > Db
+ - connection.ts
 > Middlewares
 > Queries
 > Routers
