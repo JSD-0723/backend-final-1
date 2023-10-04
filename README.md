@@ -10,7 +10,7 @@
 - [Technologies](#technologies)
 - [Project Structure](#project-structure)
 - [Environment variables](#environment-variables)
-- [App Instructions](#installation)
+- [Installation](#installation)
 - [Run Application](#run-application)
 
 ## Technologies
