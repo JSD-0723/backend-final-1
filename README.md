@@ -25,19 +25,30 @@
 ## Project Structure
 
 ```
-> Config
-  - enviroment.ts
-> Controllers
-> Db
- - connection.ts
-> Middlewares
-> Queries
-> Routers
-> Services
-> Utils
-> Validators
-- app.ts
-- index.ts
+.
+└── PWA E-Commerce Website (Backend)/
+    ├── src/
+    │   ├── config/
+    │   │   └── enviroment.ts
+    │   ├── controllers/
+    │   ├── db/
+    │   │   ├── models/
+    │   │   ├── queries/
+    │   │   └── connection.ts
+    │   ├── middlewares/
+    │   ├── routers/
+    │   ├── utils/
+    │   │   ├── interfaces/
+    │   │   └── validators/
+    │   ├── app.ts
+    │   └── index.ts
+    ├── .env
+    ├── .gitignore
+    ├── .prettierrc
+    ├── package-lock.json
+    ├── package.json
+    ├── README.md
+    └── tsconfig.json
 ```
 
 ## Environment Variables
